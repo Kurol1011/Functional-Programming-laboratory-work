@@ -1,4 +1,4 @@
-# import random
+import random
 
 #1
 # days = ["Monday" ,"Tuesday","Wednesday", "Thursday","Friday","Saturday","Sunday"]
@@ -86,7 +86,7 @@
 # b = int(input("Enter number b: "))
 
 # for i in range(a,b+1,-1):
-#     print(i - (1 - (1 * (i%2))) )
+#     print(i - (1 - (i%2)))
  
 
 

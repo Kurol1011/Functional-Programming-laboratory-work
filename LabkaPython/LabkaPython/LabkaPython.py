@@ -24,9 +24,9 @@ elif(backEndProgrammingLanguage == "Python"):
 elif(backEndProgrammingLanguage == "PHP"):
     bestFramework = "Laravel"
 elif(backEndProgrammingLanguage == "JavaScript"):
-    besbestFramework = "NodeJS"
+    bestFramework = "NodeJS"
 else:
     bestFramework = ""
 
-print(("Лучший фреймворк для вашего языка для бэкенда это " + bestFramework) if len(bestFramework)>0 else "null")
+print(("Лучший фреймворк для вашего языка для бэкенда это " + bestFramework) if len(bestFramework)>0 else "Вашего языка нету в нашей базе")
 
