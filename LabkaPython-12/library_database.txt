@@ -1,0 +1,6 @@
+The Lord of the Rings,J.R.R. Tolkien,Fantasy
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Comedy
+The Lord of the Rings,Tolkien,Fantasy
+Harry Potter,J.K. Rowling,Fantasy
+Snowman,otto,horror
